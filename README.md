@@ -1,2 +1,3 @@
-# manuais
-Manuais, drivers, helpers, links e downloads
+# Manuais
+
+Todos conteúdo de suporte ao parceiro da XDSoftware Brasil será adicionado a este repositório.
